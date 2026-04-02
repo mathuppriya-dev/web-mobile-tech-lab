@@ -1,5 +1,19 @@
 # 📘 Student Management API (Models & Routes)
 
+<p align="center">
+  <b>🚀 Backend API using Node.js, Express, MongoDB & Mongoose</b>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Node.js-18.x-green?logo=node.js">
+  <img src="https://img.shields.io/badge/Express.js-Backend-black?logo=express">
+  <img src="https://img.shields.io/badge/MongoDB-Database-green?logo=mongodb">
+  <img src="https://img.shields.io/badge/Mongoose-ODM-red">
+  <img src="https://img.shields.io/badge/Status-Active-success">
+</p>
+
+---
+
 👩‍💻 Developed by **Mathuppriya Naguleswaran**
 
 ---

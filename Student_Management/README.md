@@ -1,4 +1,3 @@
-````md
 # 📘 Student Management API (Models & Routes)
 
 👩‍💻 Developed by **Mathuppriya Naguleswaran**

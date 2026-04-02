@@ -14,10 +14,6 @@
 
 ---
 
-👩‍💻 Developed by **Mathuppriya Naguleswaran**
-
----
-
 ## 🚀 Project Overview
 
 This project is a simple backend application built using **Node.js, Express.js, MongoDB, and Mongoose** to manage student data.

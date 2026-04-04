@@ -2,13 +2,6 @@
 
 <h3 align="center">✨ Modern UI • Clean Code • Professional Styling ✨</h3>
 
-## 🎬 Project Preview (Animated)- Add soon now lets skip(for my understanding,its better to add :) )
-
-<p align="center">
-  <img src="images/demo.gif" alt="Project Demo" width="700"/>
-</p>
----
-
 ## 🚀 Project Overview
 This project demonstrates how to enhance a web page using **HTML & CSS** with proper structure and best practices.
 
@@ -232,7 +225,12 @@ ul.nav li a {
 | Bullets visible    | Add `list-style-type: none;` |
 
 ---
+## 🎬 Project Preview (Animated)- Add soon now lets skip(for my understanding,its better to add :) )
 
+<p align="center">
+  <img src="images/demo.gif" alt="Project Demo" width="700"/>
+</p>
+---
 
 ## 💡 Why Use Lists for Navigation?
 

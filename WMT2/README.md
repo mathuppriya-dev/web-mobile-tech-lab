@@ -1,14 +1,8 @@
 # 🌐 HTML & CSS Enhancement Lab
 
 <h3 align="center">✨ Modern UI • Clean Code • Professional Styling ✨</h3>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/HTML-5-orange?style=for-the-badge&logo=html5"/>
-  <img src="https://img.shields.io/badge/CSS-3-blue?style=for-the-badge&logo=css3"/>
-  <img src="https://img.shields.io/badge/Project-Level-Academic-success?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Status-Completed-brightgreen?style=for-the-badge"/>
-</p>
 ---
+
 ## 🎬 Project Preview (Animated)- Add soon now lets skip(for my understanding,its better to add :) )
 
 <p align="center">
@@ -288,12 +282,6 @@ This project provides a strong foundation in:
   <img src="https://github-readme-stats.vercel.app/api?username=mathuppriya-dev&show_icons=true&theme=tokyonight"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mathuppriya-dev&theme=tokyonight"/>
 </p>
-
----
-
-## 📊 GitHub Stats
-
-![Mathuppriya GitHub stats](https://github-readme-stats.vercel.app/api?username=mathuppriya-dev\&show_icons=true\&theme=tokyonight)
 
 ---
 

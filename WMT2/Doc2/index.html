@@ -1,0 +1,128 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Travel Adventures</title>
+        <style>
+            body{
+                margin:0;
+                padding:0;
+            }
+            /*Navigation bar*/
+            ul.nav{
+                list-style-type:none;
+                background-color:#2c3e50;
+                padding:10px;
+            }
+
+            ul.nav li{
+                display:inline;
+                margin-right:20 px;
+            }
+
+            ul.nav li a{
+                color: white;
+                text-decoration:none;
+                font-weight: bold;
+            }
+        </style>
+        <link rel="stylesheet" href="style.css">
+    </head>
+    <body>
+        <!--Navigation bar-->
+        <ul class="nav">
+            <li><a href="#">Home</a></li>
+            <li><a href="#">Destinations</a></li>
+            <li><a href="#">Contact</a></li>
+        </ul>
+
+        <h1 style="text-align:center; color:blue; margin-top:20px;">Travel Adventures</h1>
+        <p style="text-align: center; margin:15 px; line-height:1.6;">This web page provides <b>important details</b> about our upcoming trip to <i>Jaffna,</i>including costs,places,and useful information for travellers.</p>
+        <div style="text-align: center; margin:20 px;">
+        <img src="images/travel.png" alt="Travel Places" width="300" height="300" style="border:2px solid black; padding: 5px;">
+        <p> <a href="www.lk">Visit the official website of Sri Lanka Tourism</a></p>
+        </div>
+        <hr>
+
+        <h2>Packing Essentials</h2>
+           <p>Good preparation helps travelers enjoy a safe and comfortable journey.</p>
+             <ol>
+                <li>Clothes</li>
+                <li>Travel Documents</li>
+                <li>Gadgets
+                    <ul>
+                        <li>Laptop</li>
+                        <li>Smart phone</li>
+                    </ul>
+                </li>
+                <li>Toiletries</li>
+             </ol>
+<hr>
+            <h2>Trip Cost Overview</h2>
+            <table class="trip-table" border="1" cellpaddimg="8" cellspacing="0">
+                <tr>
+                    <th>Item</th>
+                    <th>Cost (USD)</th>
+                    <th>Notes</th>
+                    <th>Included Items</th>
+                </tr>
+                <tr>
+                    <td>Flight Ticket</td>
+                    <td>1200</td>
+                    <td>Round trip</td>
+                    <td>
+                        <ul>
+                            <li>Bus ticket</li>
+                            <li>Fuel Charges</li>
+                        </ul>
+                    </td>
+                </tr>
+                <tr>
+                    <td>Hotel</td>
+                    <td>800</td>
+                    <td>7 nights</td>
+                    <td>
+                        <ul>
+                            <li>Hotel stay</li>
+                            <li>Swimming pool</li>
+                        </ul>
+                    </td>
+                </tr>
+                <tr>
+                    <td>Food</td>
+                    <td>400</td>
+                    <td>Estimated</td>
+                    <td>
+                        <ul>
+                            <li>Lunch</li>
+                            <li>Breakfast</li>
+                        </ul>
+                    </td>
+                </tr>
+            </table>
+
+            <h2>Traveller Infomation</h2>
+            <p>Please Enter your details : </p>
+            <form>
+
+            <label for="name">Name : </label> <br>
+            <input type="text" id="name" name="name">
+            <br><br>
+
+            <label for="age">Age :</label> <br>
+            <input type="number" id="age" name="age">
+            <br><br>
+
+            <label for="email">Email :</label> <br>
+            <input type="email" id="email" name="email">
+            <br>
+            <br>
+
+            <input type="submit" value="Submit">
+            <br>
+            </form>
+            <hr>
+
+            <footer>Created by : Mathuppriya Naguleswaran</footer>
+            
+    </body>
+</html>

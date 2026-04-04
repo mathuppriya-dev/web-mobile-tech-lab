@@ -1,22 +1,12 @@
 # 🌐 HTML & CSS Enhancement Lab
 
 <h3 align="center">✨ Modern UI • Clean Code • Professional Styling ✨</h3>
----
 
 ## 🎬 Project Preview (Animated)- Add soon now lets skip(for my understanding,its better to add :) )
 
 <p align="center">
   <img src="images/demo.gif" alt="Project Demo" width="700"/>
 </p>
----
-## 🌓 Dark / Light Mode Preview
-
-| ☀️ Light Mode         | 🌙 Dark Mode         |
-| --------------------- | -------------------- |
-| ![](images/light.png) | ![](images/dark.png) |
-
-> 💡 You can simulate dark mode using browser dev tools or custom CSS
-
 ---
 
 ## 🚀 Project Overview
